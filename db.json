@@ -1,16 +1,39 @@
-{
-  "cards": [
-        {
-        "name": "Count of monte cristo",
-        "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Count_of_Monte_Cristo_-_Highlights_from_the_Musical.png"
-      },
-      {
-        "name": "Prisoners of Geography",
-        "url": "https://upload.wikimedia.org/wikipedia/en/3/39/Prisoners_of_Geography.jpg"
-      },
-      {
-        "name": "CLRS",
-        "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Clrs3.jpeg"
-      }
-    ]
-}
+[
+  {
+    "expense_type": "restaurant",
+    "date": "2023/08/24",
+    "amount': 24.0,
+    "card_type": "visa"
+  },
+   {
+    "expense_type": "grocery",
+    "date": "2023/08/24",
+    "amount': 24.0,
+    "card_type": "visa"
+  },
+   {
+    "expense_type": "grocery",
+    "date": "2023/08/24",
+    "amount': 24.0,
+    "card_type": "visa"
+  },
+   {
+    "expense_type": "entertainment",
+    "date": "2023/08/28",
+    "amount': 29.0,
+    "card_type": "mastercard"
+  },
+   {
+    "expense_type": "grocery",
+    "date": "2023/08/21",
+    "amount': 34.0,
+    "card_type": "mastercard"
+  },
+   {
+    "expense_type": "entertainment",
+    "date": "2023/08/20",
+    "amount': 240.0,
+    "card_type": "visa"
+  },
+  
+]
