@@ -1,41 +1,40 @@
-{ "expenses":
-  [
-  {
-    "expense_type": "restaurant",
-    "date": "2023/08/24",
-    "amount": 24.0,
-    "card_type": "visa"
-  },
-   {
-    "expense_type": "grocery",
-    "date": "2023/08/24",
-    "amount": 24.0,
-    "card_type": "visa"
-  },
-   {
-    "expense_type": "grocery",
-    "date": "2023/08/24",
-    "amount": 24.0,
-    "card_type": "visa"
-  },
-   {
-    "expense_type": "entertainment",
-    "date": "2023/08/28",
-    "amount": 29.0,
-    "card_type": "mastercard"
-  },
-   {
-    "expense_type": "grocery",
-    "date": "2023/08/21",
-    "amount": 34.0,
-    "card_type": "mastercard"
-  },
-   {
-    "expense_type": "entertainment",
-    "date": "2023/08/20",
-    "amount": 240.0,
-    "card_type": "visa"
-  }
-  
-]
+{
+	"expenses": [
+    {
+			"expense_type": "restaurant",
+			"date": "2023/08/24",
+			"amount": 24.0,
+			"card_type": "visa"
+		},
+		{
+			"expense_type": "grocery",
+			"date": "2023/08/24",
+			"amount": 24.0,
+			"card_type": "visa"
+		},
+		{
+			"expense_type": "grocery",
+			"date": "2023/08/24",
+			"amount": 24.0,
+			"card_type": "visa"
+		},
+		{
+			"expense_type": "entertainment",
+			"date": "2023/08/28",
+			"amount": 29.0,
+			"card_type": "mastercard"
+		},
+		{
+			"expense_type": "grocery",
+			"date": "2023/08/21",
+			"amount": 34.0,
+			"card_type": "mastercard"
+		},
+		{
+			"expense_type": "entertainment",
+			"date": "2023/08/20",
+			"amount": 240.0,
+			"card_type": "visa"
+		}
+	]
 }
