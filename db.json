@@ -1,16 +1,11 @@
 {
-  "cards": [
+  "expenses": [
         {
-        "name": "Count of monte cristo",
-        "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Count_of_Monte_Cristo_-_Highlights_from_the_Musical.png"
-      },
-      {
-        "name": "Prisoners of Geography",
-        "url": "https://upload.wikimedia.org/wikipedia/en/3/39/Prisoners_of_Geography.jpg"
-      },
-      {
-        "name": "CLRS",
-        "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Clrs3.jpeg"
+         "merchant": "ice cream shop",
+         "date": "2023/08/24",
+          "amount": "29.34",
+          "expense_type": "food",
+          "card_type": "visa"
       }
     ]
 }
