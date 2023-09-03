@@ -1,11 +1,1942 @@
-{
-  "expenses": [
-        {
-         "merchant": "ice cream shop",
-         "date": "2023/08/24",
-          "amount": "29.34",
-          "expense_type": "food",
-          "card_type": "visa"
-      }
-    ]
-}
+{"expenses":
+[
+  {
+    "date": "2023-04-12",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 43,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-31",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 107,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-29",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 61,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-24",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 119,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-07",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 59,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-21",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 94,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-14",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 131,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-18",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 198,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-19",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 158,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-25",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 161,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-21",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 23,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-30",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 115,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-04",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 135,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-22",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 120,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-25",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 157,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-21",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 178,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-14",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 107,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-07",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 155,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-13",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 194,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-13",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 11,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-04",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 154,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-09",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 75,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-03",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 125,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-15",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 98,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-02",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 63,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-25",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 132,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-03",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 26,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-27",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 162,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-05",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 18,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-17",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 75,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-23",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 146,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-14",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 208,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-16",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 187,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-01",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 172,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-19",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 53,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-12",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 193,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-27",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 82,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-01",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 66,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-03",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 174,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-04",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 98,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-09",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 131,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-10",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 64,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-26",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 77,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-10",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 18,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-01",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 121,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-08-06",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 74,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-26",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 103,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-30",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 93,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-21",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 84,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-13",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 76,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-11",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 94,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-29",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 149,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-10",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 109,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-25",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 151,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-24",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 49,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-09",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 122,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-27",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 123,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-19",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 63,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-25",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 75,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-07",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 47,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-08-16",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 93,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-15",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 157,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-30",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 92,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-10",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 199,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-04",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 99,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-06-11",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 17,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-28",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 21,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-15",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 169,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-17",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 86,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-10",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 174,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-26",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 77,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-31",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 125,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-18",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 144,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-07",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 180,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-30",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 100,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-14",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 43,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-03",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 193,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-26",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 150,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-30",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 42,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-13",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 176,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-24",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 152,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-25",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 52,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-21",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 48,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-28",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 65,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-08",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 88,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-13",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 125,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-03",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 16,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-21",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 145,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-08",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 197,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-14",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 91,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-10",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 113,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-06-26",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 46,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-10",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 45,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-17",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 167,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-27",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 74,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-28",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 40,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-31",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 111,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-13",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 15,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-29",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 79,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-09-02",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 104,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-18",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 183,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-29",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 138,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-07",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 134,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-15",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 65,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-28",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 166,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-26",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 157,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-12",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 92,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-31",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 189,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-06",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 108,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-19",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 70,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-17",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 203,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-01",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 99,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-17",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 77,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-04",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 112,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-08",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 66,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-24",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 42,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-24",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 185,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-03",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 184,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-08-28",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 142,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-05-25",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 143,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-25",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 177,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-30",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 32,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-09",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 169,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-05",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 209,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-30",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 159,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-05",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 79,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-14",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 163,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-24",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 39,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-23",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 38,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-08",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 104,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-13",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 161,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-05-25",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 134,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-18",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 31,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-26",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 35,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-12",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 47,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-08-20",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 30,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-16",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 18,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-11",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 172,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-09",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 97,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-12",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 48,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-19",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 127,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-09",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 192,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-13",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 87,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-08",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 132,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-17",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 17,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-22",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 129,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-19",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 157,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-17",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 133,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-25",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 24,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-09-02",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 28,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-05",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 47,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-04",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 48,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-31",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 202,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-03",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 164,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-17",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 117,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-13",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 76,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-01",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 161,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-06",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 188,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-30",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 59,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-21",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 155,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-01",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 51,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-02",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 16,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-03",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 166,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-12",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 159,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-17",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 151,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-26",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 149,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-08",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 181,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-27",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 90,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-20",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 142,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-18",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 141,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-25",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 44,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-18",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 207,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-17",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 182,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-22",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 167,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-30",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 191,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-06",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 36,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-11",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 18,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-19",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 89,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-10",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 125,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-26",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 14,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-07",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 160,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-02",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 151,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-23",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 107,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-16",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 73,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-28",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 47,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-18",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 193,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-30",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 66,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-18",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 34,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-24",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 11,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-28",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 151,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-22",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 137,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-25",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 201,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-15",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 47,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-24",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 75,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-27",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 112,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-08-06",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 136,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-21",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 42,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-01",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 132,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-25",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 189,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-14",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 194,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-30",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 39,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-13",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 27,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-03",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 88,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-18",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 149,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-13",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 190,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-21",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 69,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-08-06",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 68,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-08",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 16,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-07",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 79,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-03",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 96,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-07",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 159,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-06-04",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 29,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-01",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 172,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-04",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 136,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-08",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 116,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-04",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 56,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-31",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 209,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-28",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 151,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-14",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 196,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-04-26",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 112,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-06-03",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 174,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-01",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 26,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-08-27",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 126,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-16",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 63,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-18",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 24,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-05-11",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 77,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-08",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 190,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-04-16",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 124,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-01",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 114,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-11",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 171,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-12",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 86,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-23",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 170,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-14",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 77,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-27",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 190,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-29",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 81,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-17",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 103,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-31",
+    "card_type": "Visa",
+    "expense_category": "Utilities",
+    "amount": 127,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-22",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 189,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-06-11",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 20,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-16",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 55,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-25",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 41,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-16",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 54,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-16",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 202,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-11",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 103,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-11",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 116,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-17",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 195,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-22",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 176,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-06-08",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 110,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-30",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 196,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-23",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 200,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-07-17",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 171,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-07-31",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 41,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-11",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 13,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-07-07",
+    "card_type": "Amex",
+    "expense_category": "Utilities",
+    "amount": 110,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-04-05",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 47,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-02",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 164,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-08-19",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 144,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-09",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 55,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-08-25",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 10,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-21",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 154,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-25",
+    "card_type": "Mastercard",
+    "expense_category": "Shopping",
+    "amount": 64,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-06-05",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 148,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-08-23",
+    "card_type": "Visa",
+    "expense_category": "Shopping",
+    "amount": 84,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-05-17",
+    "card_type": "Amex",
+    "expense_category": "Transportation",
+    "amount": 90,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-07-14",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 95,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-04-23",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 172,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-06-18",
+    "card_type": "Amex",
+    "expense_category": "Shopping",
+    "amount": 163,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-20",
+    "card_type": "Mastercard",
+    "expense_category": "Utilities",
+    "amount": 40,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-06-02",
+    "card_type": "Amex",
+    "expense_category": "Entertainment",
+    "amount": 42,
+    "merchant": "Merchant A"
+  },
+  {
+    "date": "2023-05-08",
+    "card_type": "Visa",
+    "expense_category": "Food",
+    "amount": 117,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-07-03",
+    "card_type": "Amex",
+    "expense_category": "Food",
+    "amount": 174,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-06-21",
+    "card_type": "Mastercard",
+    "expense_category": "Food",
+    "amount": 92,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-04-08",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 134,
+    "merchant": "Merchant B"
+  },
+  {
+    "date": "2023-05-23",
+    "card_type": "Mastercard",
+    "expense_category": "Transportation",
+    "amount": 90,
+    "merchant": "Merchant E"
+  },
+  {
+    "date": "2023-05-03",
+    "card_type": "Visa",
+    "expense_category": "Entertainment",
+    "amount": 71,
+    "merchant": "Merchant D"
+  },
+  {
+    "date": "2023-06-15",
+    "card_type": "Mastercard",
+    "expense_category": "Entertainment",
+    "amount": 24,
+    "merchant": "Merchant C"
+  },
+  {
+    "date": "2023-06-24",
+    "card_type": "Visa",
+    "expense_category": "Transportation",
+    "amount": 87,
+    "merchant": "Merchant C"
+  }]
+  }
